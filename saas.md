@@ -9,5 +9,3 @@
 - Vorteile: sofort nutzbar, keine Installation, Updates automatisch.
 
 - Nachteile: Abhängigkeit vom Provider, Datenschutzfragen.
-
-- Das sind die Ergenisse.
